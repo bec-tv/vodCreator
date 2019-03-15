@@ -1,0 +1,17 @@
+{
+  "name": "vod-creator",
+  "version": "1.0.0",
+  "description": "Script to bulk create VOD records in TRMS cablecast based on a saved search",
+  "main": "vod-creator.js",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon McKenzie - BEC-TV",
+  "license": "MIT"
+  "homepage": "https://github.com/bec-tv/vodCreator"
+}
