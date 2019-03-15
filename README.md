@@ -2,6 +2,7 @@ vodCreator
 ==============
 
 Script to bulk enable VOD in TRMS cablecast based on a saved search
+
 Copyright 2019 - Brandon McKenzie / BEC-TV
 
 Installation
