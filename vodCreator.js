@@ -5,7 +5,7 @@ const dotenv = require("dotenv");
 var result = dotenv.config();
 
 if(result.error) {
-  console.log("FATAL ERROR\n\node-fetchFailed to load .env file with required setting.  Please see README for details");
+  console.log("FATAL ERROR\n\nFailed to load .env file with required setting.  Please see README for details");
   return 0;
 }
 
