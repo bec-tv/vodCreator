@@ -12,6 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brandon McKenzie - BEC-TV",
-  "license": "MIT"
+  "license": "MIT",
   "homepage": "https://github.com/bec-tv/vodCreator"
 }
